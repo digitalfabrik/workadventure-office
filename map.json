@@ -876,22 +876,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "columns":0,
-         "firstgid":321,
-         "grid":
-            {
-             "height":1,
-             "orientation":"orthogonal",
-             "width":1
-            },
-         "margin":0,
-         "name":"basics",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":0,
-         "tilewidth":0
         }],
  "tilewidth":32,
  "type":"map",
