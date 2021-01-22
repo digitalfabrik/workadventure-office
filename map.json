@@ -51,15 +51,37 @@
          "id":2,
          "name":"bottom",
          "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":25,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":15,
+         "name":"jitsiRoom-table",
+         "objects":[
+                {
+                 "height":124,
+                 "id":6,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":191.333333333333,
+                 "x":384.333333333333,
+                 "y":161.666666666667
+                }],
+         "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"tatdf-world-table"
                 }],
-         "type":"tilelayer",
+         "type":"objectgroup",
          "visible":true,
-         "width":25,
          "x":0,
          "y":0
         }, 
@@ -128,8 +150,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":15,
- "nextobjectid":1,
+ "nextlayerid":16,
+ "nextobjectid":7,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
@@ -876,7 +898,7 @@
                  "id":19,
                  "properties":[
                         {
-                         "name":"collision",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
