@@ -51,6 +51,12 @@
          "id":2,
          "name":"bottom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"tatdf-world-table"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":25,
@@ -866,6 +872,15 @@
          "tilecount":64,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":19,
+                 "properties":[
+                        {
+                         "name":"collision",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
                 {
                  "id":37,
                  "properties":[
