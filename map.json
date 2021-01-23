@@ -73,7 +73,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Lyon\/lyon.json"
+                 "value":".\/cafe_tat.json"
                 }],
          "type":"tilelayer",
          "visible":false,
