@@ -43,7 +43,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/hub.gke2.mybinder.org\/user\/tatdf-python-notebook\/notebooks\/binder\/Index.ipynb"
+                 "value":"https:\/\/hub.gke2.mybinder.org\/user\/ipython-ipython-in-depth-g2g66fwu\/notebooks\/binder\/Index.ipynb"
                 }],
          "type":"tilelayer",
          "visible":true,
