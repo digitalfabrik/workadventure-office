@@ -46,7 +46,7 @@
                  "value":"tatdf-world-cafe3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -64,7 +64,7 @@
                  "value":"tatdf-world-cafe4"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -82,7 +82,7 @@
                  "value":"tatdf-world-cafe5"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
